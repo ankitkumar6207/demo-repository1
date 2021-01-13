@@ -1,3 +1,4 @@
 iawnt to store some thinf in this text condiyion.
 this is for bygfix the programe .
 this file is also iuse for bug fixing and that shit.
+my new modification on branch bugfix is ready.
